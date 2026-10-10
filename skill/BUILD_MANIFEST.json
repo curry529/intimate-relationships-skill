@@ -1,0 +1,49 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\active-listening.md": "aab8144e59a9121c0cfd9f4e94d289535efc315341d09ff9bb8a1cfb05eeb635",
+    "references\\capabilities\\attachment-patterns.md": "fd0cb74c1236a60f9e3306a804ea4df247d3d3a4baf5a099044825497bcc9419",
+    "references\\capabilities\\attraction-mate-fit.md": "4ad851a6ddff731269b740ed055ba0453fa492b88e5cf55e638d4bc41824ca2c",
+    "references\\capabilities\\beliefs-attribution.md": "0eb28d981f291e7aa1e7e16c83c099d1b9a518ebe115df76ca6c0e7ca8a0814c",
+    "references\\capabilities\\breakup-divorce-navigation.md": "4f6cddb98a1d9b895ecc0b4a4909e8795d1a884e7d7ec16b736038646a0531f2",
+    "references\\capabilities\\commitment-investment.md": "0d79f90ac39cfefbf093ab646130c085bad55530e6c2562277562c80d61db56f",
+    "references\\capabilities\\conflict-management.md": "85d3cbeccdd4c674e343565675a556d506c4778d242da1ae0d7aa2327f76639f",
+    "references\\capabilities\\deception-betrayal-forgiveness.md": "67466408f5cc9e09ae6fbcb165270ab2911629985816ebe8b9b1cd600d20bc77",
+    "references\\capabilities\\equity-communal.md": "cf7cd3d03df0e09afc9bfefad5b5bbf5acaa779369b74902abae89a4b11225d6",
+    "references\\capabilities\\friendship-shyness-loneliness.md": "081639969c2ee00ee285fd115f242b0021bbf0f0f72a381bfb617097ee2baf65",
+    "references\\capabilities\\jealousy-coping.md": "9d337b866a3790b3f41186c0b079b141d2e3b1a94cd24be565eb29d228611b95",
+    "references\\capabilities\\love-types-freshness.md": "c4e37aa2ef23e4da2e1d41cb8ab35ee5d17441c1fa411413a86825a0d5935bfa",
+    "references\\capabilities\\maintenance-repair.md": "d0db88313b328195128b7380f86ca7a50b294545cc0e3061028c73c16adeb92c",
+    "references\\capabilities\\nonverbal-decoding.md": "957fb058e7a642a5e18c73a5b0306df15887869ef370c09342c53506d42870f4",
+    "references\\capabilities\\power-balance.md": "315bfd0444173d2d0dbec2c40f06cf626f6e1ccdbfa860eb046870b44fa3adef",
+    "references\\capabilities\\precise-expression.md": "4711739ffd91b336ea402fdc56fd9255bb3d1d172ebf76d2af91025ab0b1ba97",
+    "references\\capabilities\\satisfaction-stability.md": "e516e59893d07b6e441dfbf53ad98865f35d453613c6090e7cb211c5cd030226",
+    "references\\capabilities\\sexual-communication-safety.md": "ec2e1ccf9ecb14edc465359cff8dd3faae3101b4587a1ed90aa9b6dc31cca6b7",
+    "references\\capabilities\\violence-safety.md": "82478199b28dec57c9f14a001dc69848d39c61c8f5837b02dff305ab2749675f",
+    "references\\capability-index.md": "1f0f62dc92d7bcd0f1987ae6d590b323c78490c212f5ebfb1387efc403c6e759",
+    "references\\cheatsheet.md": "a585e09ddea2c239510dd000380bef50f4d67e1dc4d74f6074090ec4bef10e0c",
+    "references\\glossary.md": "8265e55302b57a2e70f5e5e5ef985ba529d4010524ae71e0a77a00c41041781b",
+    "references\\overview.md": "89d3af8f876148c358d39a66bc0f56f3103a37eedd9555273a94bfa2016c4329",
+    "SKILL.md": "7654df7cd124c9e36699aab847ccd16324591a6ca799ee8d356435236accdde5"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.intimate-relationships",
+  "bundle_sha256": "9c6351f3c1698c711b5d7d36b55d6314fb9b311af7f3017fbec96725416530e7",
+  "variant": "single",
+  "run_id": "run-20261010-113609-4ada97",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 19,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
